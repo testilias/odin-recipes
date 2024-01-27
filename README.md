@@ -1,1 +1,2 @@
 # odin-recipes
+This is a project about recipes, we are going to make a website showing a few recipes and showcase our abilities while we are at it, such as making lists, adding images, styling our page etc.
