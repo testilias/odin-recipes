@@ -1,0 +1,20 @@
+body {
+    background-color: darkred;
+    color: rgb(12, 190, 12);
+    text-align: center;
+}
+
+h1 {
+    color: antiquewhite;
+    text-align: center;
+    text-decoration: underline;
+    font-style: oblique;
+}
+
+ul, ol, h4 {
+    text-align: left;
+}
+
+h4 {
+    text-decoration: underline;
+}

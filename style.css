@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+    color: aquamarine;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+body {
+    background-color: coral;
+    text-align: center;
+}
+
+ul {
+    margin: none;
+    padding: 0%;
+}
+

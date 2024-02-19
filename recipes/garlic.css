@@ -1,0 +1,9 @@
+* {
+    text-align: center;
+    background-color: bisque;
+}
+
+ul, ol {
+    margin-left: 20%;
+    margin-right: 30%;
+}
