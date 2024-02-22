@@ -1,17 +1,27 @@
-h1 {
-    text-align: center;
-    color: aquamarine;
-    font-style: italic;
-    text-decoration: underline;
+html {
+    box-sizing: border-box;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
 }
 
 body {
-    background-color: coral;
+    background-color: #00bfff;
     text-align: center;
 }
 
-ul {
-    margin: none;
-    padding: 0%;
+.list {
+    display: inline-block;
+    margin: 40px;
+    padding: 20px 10px;
+    color: coral;
+    font-size: large;
+    font-weight: bold;
+    text-shadow: 1px 1px mediumaquamarine;
 }
 
+h1 {
+    color: coral;
+    text-shadow: 2px 2px black;
+}
